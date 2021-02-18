@@ -117,6 +117,7 @@ future state of the libraries and to discover projects for contribution.
 [232](https://github.com/aws/aws-cdk-rfcs/issues/232)|[Construct library pattern for resources that need IAM roles](https://github.com/aws/aws-cdk-rfcs/issues/232)||❓unknown
 [233](https://github.com/aws/aws-cdk-rfcs/issues/233)|[Using Custom Types with CDK](https://github.com/aws/aws-cdk-rfcs/issues/233)||❓unknown
 [246](https://github.com/aws/aws-cdk-rfcs/issues/246)|[[lambda] Package Docker asset as a lambda layer](https://github.com/aws/aws-cdk-rfcs/issues/246)||❓unknown
+[287](https://github.com/aws/aws-cdk-rfcs/issues/287)|[CDK CLI should warn when using deprecated APIs](https://github.com/aws/aws-cdk-rfcs/pull/290)|[@skinny85](https://github.com/skinny85)|❓unknown
 <!--END_TABLE-->
 
 ## What is an RFC?
